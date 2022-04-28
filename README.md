@@ -1,3 +1,3 @@
-# Built a tribute page for Dr. Norman Borlaug.
+# Built a Tribute Page for Dr. Norman Borlaug.
 
-Check it out here :-
+Check it out here :- https://pscode422.github.io/Tribute/tribute.html
